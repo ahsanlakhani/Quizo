@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-Quizo.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-QuizoTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-QuizoUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RQShineLabel.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SGNavigationProgress.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1625D7F75E8A845D782299282F7E0ACB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>32FE0D35971FAFFAFEC136B0827D79DB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8EBB3168E5FE70BB0DBFCD5F3191FC7C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9AFBF9A923E9279BF10F5761A4E927F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BCF8B3E29CD2440D7FC2DC2FB256E8C8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
